@@ -253,8 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Допомогти",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Помічники",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Відкрити проект",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} Пожертвувати",
+    "donate_with_paypal_button": "{P_BUTTON} Пожертвувати через PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
